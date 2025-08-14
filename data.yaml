@@ -1,0 +1,13 @@
+train: E:/sign/final/train/images
+val: E:/sign/final/train/images
+test: E:/sign/final/test/images
+
+nc: 7
+names: ['bye', 'hello', 'no', 'please', 'sorry', 'thankyou', 'yes']
+
+roboflow:
+  workspace: project-et9mt
+  project: signlang-q5xad
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/project-et9mt/signlang-q5xad/dataset/1
