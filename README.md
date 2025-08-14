@@ -43,3 +43,5 @@ GestureTalk-Sign-Language-Recognition/
 └── docs/
     ├── architecture_diagram.png
     └── usage_guide.md
+
+
